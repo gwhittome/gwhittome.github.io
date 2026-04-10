@@ -3,12 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "copy"
+  title: " "
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: publications.qmd
+        text: Publications
+      - href: cv.pdf
+        text: CV
+        
+
 
 format:
   html:

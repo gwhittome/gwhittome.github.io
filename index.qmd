@@ -1,11 +1,52 @@
 ---
-title: "copy"
+title: "Georgina Whittome"
+subtitle: "PhD Researcher - University of St Andrews"
+format:
+  html:
+    theme: minty
+    toc: false
+    page-layout: full
+    css: styles.css   # Optional custom CSS
 ---
 
-This is a Quarto website.
+::: {.columns}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.column width="60%"}
+## Hello 👋
 
-```{r}
-1 + 1
-```
+I am a PhD researcher at the University of St Andrews, working across the [Sea Mammal Research Unit (SMRU)](https://www.smru.st-andrews.ac.uk/index.html) and the [Centre for Research into Ecological and Environmental Modelling (CREEM)](https://www.creem.st-andrews.ac.uk/).
+
+I'm interested in how we can apply quantitative approaches to ecological questions that have a direct application for conservation. I work at the intersection of population ecology and spatial ecology and spend most of my time thinking about modelling population size, demographic parameters, and species distributions to develop a coherent picture of population life history.
+
+My PhD examines the spatial ecology of eastern North Pacific blue whales, using data integration and spatial capture–recapture methods to model spatiotemporal variation in density and its environmental drivers.
+
+## 📬 Contact
+  
+
+<p><i class="bi bi-envelope"></i> <a href="mailto:gw78@st-andrews.ac.uk">gw78@st-andrews.ac.uk</a></p>
+  
+  <p><i class="bi bi-geo-alt"></i> \ Sea Mammal Research Unit\, \ University of St Andrews\ </p>
+  
+  <p>
+  <i class="bi bi-mortarboard"></i>
+<a href="https://scholar.google.com/citations?user=JhMNUh8AAAAJ&hl=en" target="_blank">
+  Google Scholar
+</a> | <i class="bi bi-box-arrow-up-right"></i> 
+  <a href="https://www.researchgate.net/profile/Georgina_Whittome" target="_blank">ResearchGate</a> | <i class="bi bi-linkedin"></i> <a href="https://linkedin.com/in/georgina-whittome-31b57680/?originalSubdomain=uk" target="_blank">LinkedIn</a>
+  </p>
+
+  ------------------------------------------------------------------------
+  
+  *Last updated:* 8th April 2026
+
+:::
+
+::: {.column width="40%"}
+
+<div class="profile-wrap">
+  <img src="georgina_whittome.jpg" class="profile-img">
+</div>
+
+:::
+
+:::

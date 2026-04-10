@@ -1,0 +1,33 @@
+---
+title: "Publications"
+subtitle: " "
+format:
+  html:
+    theme: minty
+    toc: false
+    page-layout: full
+    css: styles.css   # Optional custom CSS
+---
+::: {.spacer}
+:::
+<p style="text-align: center; font-size: 1.3rem;">
+  <i class="bi bi-mortarboard"></i>
+  <a href="https://scholar.google.com/citations?user=JhMNUh8AAAAJ&hl=en" target="_blank">
+    Google Scholar
+  </a>
+</p>
+::: {.spacer}
+:::
+## Peer-reviewed work 📖
+
+Jolliffe, C. D., Edyvane, K., Genty, G., …, **Whittome, G.**, et al. (2026). Collaborating for Conservation: A Summary of Current and Future Directions in Blue Whale Science. Aquatic Conservation: Marine and Freshwater Ecosystems 36, no. 2: e70331.<br>
+[View paper](https://doi.org/10.1002/aqc.70331) 
+
+**Whittome, G.**, Calambokidis, J., Hammond, P.S., Smout, S. and Sutherland, C. (2025). Using spatial capture–recapture methods to estimate long-term spatiotemporal variation of a wide-ranging marine species. Ecography, 2025: e07878. <br>
+[View paper](https://doi.org/10.1002/ecog.07878)
+
+**Whittome, G.**, Calambokidis, J., Douglas, A. B., Fishbach, M., Sears, R., & Hammond, P. S. (2024). Changes in blue whale survival and abundance in the Gulf of California. Marine Mammal Science, 40(4), e13132. <br>
+[View paper](https://doi.org/10.1111/mms.13132)
+
+
+
