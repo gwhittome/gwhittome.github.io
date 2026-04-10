@@ -20,7 +20,7 @@ I'm interested in how we can apply quantitative approaches to ecological questio
 
 My PhD examines the spatial ecology of eastern North Pacific blue whales, using data integration and spatial capture–recapture methods to model spatiotemporal variation in density and its environmental drivers.
 
-## 📬 Contact - test
+## 📬 Contact 
   
 
 <p><i class="bi bi-envelope"></i> <a href="mailto:gw78@st-andrews.ac.uk">gw78@st-andrews.ac.uk</a></p>
